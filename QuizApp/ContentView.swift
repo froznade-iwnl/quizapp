@@ -85,7 +85,7 @@ struct ContentView: View {
                                 .padding()
                                 .font(.title3)
                                 .frame(width: 175, height: 200)
-                                .background(.red)
+                                .background(.pink)
                                 .cornerRadius(12)
                                 
                         }
